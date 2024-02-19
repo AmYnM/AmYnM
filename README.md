@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmYnM
 - 👀 I’m interested in Blockchain Developer & Consultant
 - 🌱 I’m currently learning Ethereum Blockchain, Hyperledger frameworks, Blockchain stuffs etc...
-- 💞️ I’m looking to collaborate on future technology and entrepreneuship
+- 💞️ Coding is the art of turning ideas into reality, one line of code at a time
 - 📫 Reach me through Links: https://linktr.ee/AmYn_23
 - LinkedIn: https://www.linkedin.com/in/ameenul-m-1216b112b
   
