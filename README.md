@@ -15,7 +15,7 @@
      <img src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="twitter" width="30">
     </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/am_yn?igsh=MWZ4cTJ1d3Z5M3Q1Mg==">
+   <a href="https://www.instagram.com/_am_yn_?igsh=MWZ4cTJ1d3Z5M3Q1Mg==">
     <img src="https://buatlogoonline.com/wp-content/uploads/2022/10/Logo-Instagram-PNG-1024x1024.png" alt="Instagram" width="30">
    </a>
 
