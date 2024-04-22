@@ -11,11 +11,11 @@
      <img src="http://freelogopng.com/images/all_img/1657906169gmail-logo-png.png" alt="Email" width="30"> 
     </a>
   &nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/AmYn1166308?t=uT1tWLVQnCi-6E9SurtTFQ&s=08">
+    <a href="https://x.com/mut072130">
      <img src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="twitter" width="30">
     </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/_am_yn_?igsh=MWZ4cTJ1d3Z5M3Q1Mg==">
+   <a href="https://www.instagram.com/_am_yn_">
     <img src="https://buatlogoonline.com/wp-content/uploads/2022/10/Logo-Instagram-PNG-1024x1024.png" alt="Instagram" width="30">
    </a>
 
