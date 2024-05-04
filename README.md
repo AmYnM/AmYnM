@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmYnM
 - 👀 I’m interested in Web3, Blockchain Technology, Full Stack Developer
-- 🌱 I’m currently learning Hyperledger Fabrics, Web3 tokens, Full Stacks etc..
+- 🌱 I’m currently learning Hyperledger Fabrics, Web3 tokens, Full Stack Developing etc..
 - <h3>📫 Reach Me </h3>
 <div display="flex" gap="50px">
     <a href="https://www.linkedin.com/in/ameenul-m-1216b112b">
