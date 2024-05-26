@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AmYnM
+<h1 >Hi 👋, I’m @AmYnM!</h1>
+
 - 👀 Passionate Full Stack Developer with a keen interest in Web3 and Blockchain Technology. Adept at using modern development languages and tools to create innovative and scalable solutions.
 - 🌱 Engaged in mastering Hyperledger Fabric, delving into the realm of Web3 tokens, and enhancing my Full Stack Development skills with cutting-edge technologies.
-- <h3>📫 Reach Me </h3>
+<h3>📫 Reach Me </h3>
 <div display="flex" gap="50px">
     <a href="https://www.linkedin.com/in/ameenul-m-1216b112b">
      <img src="https://accutrainee.com/wp-content/uploads/2017/03/images-linkedin-logo-png-14.png" alt="LinkedIn" width="30">
@@ -19,31 +20,30 @@
     <img src="https://buatlogoonline.com/wp-content/uploads/2022/10/Logo-Instagram-PNG-1024x1024.png" alt="Instagram" width="30">
    </a>
 
-## Languages and Tools:
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+# Profile
 
-## Most Used Languages:
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) 33.10% 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) 22.78%
-![Makefile](https://img.shields.io/badge/-Makefile-064F8C?style=flat-square&logo=makefile) 12.69%
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus) 11.91%
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) 9.80%
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake) 9.71%
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
+## Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+ <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+## Top Lang:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmYnM&layout=compact&theme=radical)](https://github.com/AmYnM/github-readme-stats)
 
 ## GitHub Stats:
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-180-green)
-![Current Streak](https://img.shields.io/badge/Current%20Streak-0-orange)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7-yellow)
+[![AmYn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmYnM&show_icons=true&theme=default)](https://github.com/AmYnM/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmYnM&theme=default)](https://github.com/AmYnM/github-readme-streak-stats)
 
 
 <!---
