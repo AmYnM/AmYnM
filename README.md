@@ -36,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+<img src="https://www.pipelinersales.com/wp-content/uploads/2018/09/infura.jpg" alt="Infura" width="40" height="40">
+<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" alt="MetaMask" width="40" height="40"/>
+<img src="https://metaschool.so/articles/wp-content/uploads/2022/03/Frame-72.png" alt="Remix" width="40" height="40"/>
+<img src="https://logos-download.com/wp-content/uploads/2018/09/Chainlink_Logo_new.png" alt="Chainlink" width="40" height="40">
+<img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" alt="OpenZeppelin" width="40" height="40"/>
+<img src="https://img.stackshare.io/service/7931/_6vl74tM_400x400.png" width="40" height="40"/>
+
 </p>
 
 ## Top Lang:
