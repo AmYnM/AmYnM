@@ -22,7 +22,7 @@
 
 # Profile
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AmYnM&color=blueviolet&style=rounded)
 
 ## Languages and Tools:
 <p align="left">
